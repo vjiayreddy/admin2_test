@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "MPF_HEAVY";
+  font-weight: 900;
+  font-style: normal;
+  src: url("./MPF-Heavy.ttf");
+}
+
+@font-face {
+  font-family: "MPF_HEAVY_OBLIQUE";
+  font-weight: 900;
+  font-style: oblique;
+  src: url("./MPF-HeavyOblique.ttf");
+}
+
+@font-face {
+  font-family: "MPF_MEDIUM";
+  font-weight: 500;
+  font-style: normal;
+  src: url("./MPF-Medium.ttf");
+}
+
+@font-face {
+  font-family: "MPF_MEDIUM_OBLIQUE";
+  font-weight: 500;
+  font-style: normal;
+  src: url("./MPF-MediumOblique.ttf");
+}
+
+@font-face {
+  font-family: "MPF_BLACK";
+  font-weight: 900;
+  font-style: normal;
+  src: url("./MPF-Black.ttf");
+}

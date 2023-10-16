@@ -1,0 +1,6 @@
+export enum fonts {
+  MPF_HEAVY = "MPF_HEAVY",
+  MPF_HEAVY_OBLIQUE = "MPF_HEAVY_OBLIQUE",
+  MPF_MEDIUM = "MPF_MEDIUM",
+  MPF_BLACK = "MPF_BLACK",
+}

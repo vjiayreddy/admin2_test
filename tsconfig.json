@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "settings/theme.js", "src/components/Ui/dialog/infoDialog/styles.js", "src/components/Ui/formInputs/CustomRadioGroup/styles.js", "src/components/Ui/formInputs/CustomRadioGroup/index.js", "pages/styleclub/personalization.js", "src/services/styleClub.js", "src/components/Ui/formFields/TextInputField.js", "src/utils/validations.js", "pages/userInfo/index.tsx", "pages/grooming/category.js", "src/components/Ui/sliders/grooming/index.js", "src/services/usersts", "src/services/usersts", "src/utils/hooks/useMeasurmentFormula.js", "src/components/Ui/dataGrid/appointmenDataGrid.js", "pages/api/auth/[...nextauth].js", "src/apollo/hooks/useGetMeasurments.js", "src/apollo/measurments/useMeasurmentsCalulations.js", "src/apollo/calculateMeasurments/useGetOccasions.js", "pages/trial/form/form.js", "src/components/Ui/tables/softTrialView.js", "src/components/forms/customerForm/index.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
